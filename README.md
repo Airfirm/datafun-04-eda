@@ -1,6 +1,38 @@
 # datafun-04-eda: This is going to be for Jupyter Notebook projects
 
-# project-04
+# Exploratory Data Analysis (EDA) Report
+
+## 1. Introduction
+- Brief overview of the dataset and goals of the analysis.
+
+## 2. Data Cleaning
+- Handling missing values
+- Removing duplicates
+- Data type adjustments
+
+## 3. Initial Data Exploration
+- Descriptive statistics
+- Data structure (e.g., shape, types)
+
+## 4. Visualizing Distributions
+- Histograms and box plots
+- Count plots for categorical variables
+
+## 5. Correlation and Relationships
+- Pairwise correlations
+- Scatter plots, pair plots
+
+## 6. Feature Engineering
+- Creating new features
+- Data transformations
+
+## 7. Additional Visualizations
+- Visualizing new features and transformations
+- Iterative exploration as you become more familiar with the data
+
+## 8. Conclusions and Insights
+- Key findings
+- Actionable recommendations
 
 # Pro Analytics 01: Setup and Workflow Guide
 
