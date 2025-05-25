@@ -1,6 +1,6 @@
-# datafun-04-eda: This is going to be for Jupyter Notebook projects
+### datafun-04-eda: This is going to be for Jupyter Notebook projects
 
-# Exploratory Data Analysis (EDA) Report
+### Exploratory Data Analysis (EDA) Report
 
 ## 1. Introduction
 - Brief overview of the dataset and goals of the analysis.
